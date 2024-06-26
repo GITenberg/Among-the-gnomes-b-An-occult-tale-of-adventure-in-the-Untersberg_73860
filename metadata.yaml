@@ -1,0 +1,32 @@
+_repo: Among-the-gnomes-b-An-occult-tale-of-adventure-in-the-Untersberg_73860
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hartmann, Franz
+    alias: Hartmann, F. (Franz)
+    birthdate: 1838
+    deathdate: 1912
+    gutenberg_agent_id: '48908'
+    url: http://www.gutenberg.org/2009/agents/48908
+    wikipedia: https://fi.wikipedia.org/wiki/Franz_Hartmann
+description: ''
+gutenberg_issued: '2024-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73860'
+language: en
+pgterms:marc904: https://archive.org/details/among-the-gnomes-1/page/n1/mode/2up
+pgterms:marc905: 20240402110948hartmann
+pgterms:marc906: '1895'
+pgterms:marc907: GB
+production_note: Susan E., David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bT. Fisher Unwin, $c1895.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Among the gnomes : $b An occult tale of adventure in the Untersberg'
+url: http://www.gutenberg.org/ebooks/73860
