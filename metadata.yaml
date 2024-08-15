@@ -1,5 +1,8 @@
 _repo: Among-the-gnomes-b-An-occult-tale-of-adventure-in-the-Untersberg_73860
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73860-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Hartmann, Franz
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48908
     wikipedia: https://fi.wikipedia.org/wiki/Franz_Hartmann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73860#Among-the-gnomes-b-An-occult-tale-of-adventure-in-the-Untersberg
 gutenberg_issued: '2024-06-18'
 gutenberg_type: Text
 identifiers:
